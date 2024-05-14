@@ -43,7 +43,7 @@ function App() {
                   ? (ele.price,
                     setTimeout(() => {
                       setcount(() => count++);
-                    }, 4000))
+                    }, 1500))
                   : (ele.price,
                     setTimeout(() => {
                       setcount(() => count--);

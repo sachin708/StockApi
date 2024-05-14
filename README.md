@@ -11,7 +11,7 @@
   </br>
  npm run server
 </br>
- **Frontend folder use the command **
+ **Frontend folder use the command**
  </br>
  npm install
  </br>
@@ -19,4 +19,4 @@
 </br>
  **Video Presentation :-
 
- **Deployment Link:- https://stock-api-livid.vercel.app/
+ **Deployment Link**:- https://stock-api-livid.vercel.app/

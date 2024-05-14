@@ -17,7 +17,7 @@ app.use("/stoke",StokeRouter);
 
 
 // App 
-const PORT = process.env.PORT;
+const PORT = 4545;
 app.listen(PORT,async()=>{
     try {
         await connection

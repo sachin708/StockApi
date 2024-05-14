@@ -23,7 +23,7 @@ function App() {
   // }, 1000);
   return (
     <>
-      <table>
+      <table style={{ margin: "auto", border: "1px solid red" }}>
         <thead>
           <tr>
             <th>Stock Name</th>

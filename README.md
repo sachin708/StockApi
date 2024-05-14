@@ -3,18 +3,20 @@
 </br>
  |_ Frontend
 </br>
- Backend folder use the command
+ **Backend folder use the command**
  </br>
  npm install
   </br>
-  Run the server 
+  **Run the server**
   </br>
  npm run server
 </br>
- Frontend folder use the command 
+ **Frontend folder use the command **
  </br>
  npm install
  </br>
  npm run dev
 </br>
- Video Presentation 
+ **Video Presentation :-
+
+ **Deployment Link:- https://stock-api-livid.vercel.app/
